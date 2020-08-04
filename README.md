@@ -11,7 +11,7 @@ In project repository run `make` command to make project by g++.
 After running `load_balancer` executable file, your commands should be like this : 
 
 ```
-(<field-name> = <query-value> - )*(<field-to-sort-by> = ascending|descending - )?￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼processes = <number-of-processes> – dir = <relative-dataset-address> 
+(<field-name> = <query-value> - )*(<field-to-sort-by> = ascending|descending - )?processes = <number-of-processes> – dir = <relative-dataset-address> 
 ```
 
 And input files in input directory should be `dataset*` with contents like this : 
